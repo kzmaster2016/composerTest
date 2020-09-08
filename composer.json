@@ -1,5 +1,6 @@
 {
     "name": "kzmaster/test",
     "description": "study composer",
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
