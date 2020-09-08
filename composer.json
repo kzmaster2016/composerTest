@@ -2,5 +2,13 @@
     "name": "kzmaster/test",
     "description": "study composer",
     "require": {},
+    "autoload": {
+        "files": [
+
+        ],
+        "psr-4": {
+            "Kzmaster\\Test\\": "src"
+        }
+    },
     "minimum-stability": "dev"
 }
